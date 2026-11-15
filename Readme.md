@@ -1,4 +1,4 @@
-# Kubernetes Workload Distribution Monitor
+# Kubernetes Workload Distribution
 
 A multi-node Kubernetes project demonstrating **container orchestration, workload distribution, resource monitoring, horizontal scaling, and node failure recovery** using Docker, Kind, and Kubernetes.
 
